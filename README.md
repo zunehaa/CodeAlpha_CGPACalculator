@@ -48,13 +48,13 @@ A simple and interactive **C++ console application** that calculates your **Seme
 ## 📷 Sample Outputs
 
 ### ▶️ Output 1
-![Output 1.1](sample_outputs/Sample output 1.jpg)
+![Output 1.1](sample_outputs/Sample%20output%201.jpg)
 
 ### ▶️ Output 2
-![Output 1.2](sample_outputs/Sample output 2.jpg)
+![Output 1.2](sample_outputs/Sample%20output%202.jpg)
 
 ### ▶️ Output 3
-![Output 1.3](sample_outputs/Sample output 3.jpg)
+![Output 1.3](sample_outputs/Sample%20output%203.jpg)
 
 ---
 ## ✨ Future Improvements
